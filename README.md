@@ -1,5 +1,3 @@
-# project-capstone
-
 # Project Name: " ----------------------------  "
 
 # Team Names:
